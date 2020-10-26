@@ -6,7 +6,7 @@ Feel free to implement the rest of the CRUD functionality.
 
 This is only a proof of concept.
 
-#How to:
+# How to:
 Once you download the code create "db-config.env" file in your main directory.
 Type your database username on the first line of the file,
 and your database password on the second line.
